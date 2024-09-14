@@ -1,2 +1,2 @@
 # project-2
-ini sedang belajar repo server
+Push File using GIT Command
